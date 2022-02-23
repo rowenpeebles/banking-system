@@ -4,4 +4,4 @@
 
 ## Allows basic banking system operations
 
-### Written in C and allows the user to create an account, add/withdraw/transfer funds to other existing accounts with a terminal based GUI.
+#### Written in C and allows the user to create an account, add/withdraw/transfer funds to other existing accounts with a terminal based GUI.
